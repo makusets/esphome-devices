@@ -8,6 +8,9 @@ standard: au
   
 [https://www.officeworks.com.au/shop/officeworks/p/brilliant-lighting-smart-wifi-plug-with-energy-monitoring-bl20925](https://www.officeworks.com.au/shop/officeworks/p/brilliant-lighting-smart-wifi-plug-with-energy-monitoring-bl20925)
 
+Update (19-11-2021): Latest models of this plug come with a newer Tuya chip (WB2S). In this case flashing ESPHome, either Over-the-Air or by physically attaching TX/RX pins is not possible.
+
+
 ## GPIO Pinout
 
 | Pin    | Function                   |
